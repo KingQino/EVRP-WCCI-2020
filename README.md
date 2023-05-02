@@ -5,6 +5,6 @@
   - [ ] Simple Genetic Algorithm
     - Improvement is needed
     - encoding scheme & operators
-  - [ ] Simulated Annealing
+  - [ ] Sequence-based Selection Hyper-heuristic Algorithm
 
 
